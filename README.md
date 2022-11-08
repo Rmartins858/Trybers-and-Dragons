@@ -7,7 +7,7 @@ Alguns seres também possuem uma energia e, ao treinarem o uso da energia, passa
 
 Boa parte dos seres podem ser considerados lutadores, bastando para isso possuir alguns atributos específicos e em diversas ocasiões podem acontecer lutas entre personagens diversos, bem como entre personagens e monstros.
 
- ## O que deverá ser desenvolvido
+ ## O que foi desenvolvido
 
  Para este projeto, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
 
